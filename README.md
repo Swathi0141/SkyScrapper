@@ -1,1 +1,1 @@
-Public link: https://skyscraper-28fe7.web.app/
+https://skyscraper-28fe7.web.app/
